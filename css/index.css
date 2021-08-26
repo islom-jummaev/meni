@@ -67,4 +67,7 @@ body{
     .time small{
         font-size: 10px;
     }
+    .text{
+        font-size: 24px;
+    }
 }
